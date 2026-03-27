@@ -65,6 +65,7 @@ const MainDashboard = () => {
                         <TouchableOpacity
                             key={index}
                             style={styles.tab}
+                            
                             onPress={() => setActiveTab(index)}
                         >
 
