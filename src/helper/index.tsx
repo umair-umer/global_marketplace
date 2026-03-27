@@ -1,0 +1,1 @@
+export {RESPONSIVE} from './responsive';
